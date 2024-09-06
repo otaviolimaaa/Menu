@@ -1,0 +1,14 @@
+.menu, .menu1{
+    display: flex;
+    gap: 30px;
+    justify-content: center ;
+    list-style: lower-alpha;
+    background-color: black;
+    color: #f0f0f0;
+    font-size:2em;
+    padding:10px 10px;
+}
+.menu1{
+    background-color: blue;
+    justify-content:space-between;
+}
